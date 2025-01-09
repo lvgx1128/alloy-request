@@ -1,7 +1,7 @@
 {
   "name": "alloy-request",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "keywords": [
     "React",
@@ -26,12 +26,12 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/lvgx1128/solo-request/issues"
+    "url": "https://github.com/lvgx1128/alloy-request/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lvgx1128/solo-request.git"
+    "url": "git@github.com:lvgx1128/alloy-request.git"
   },
   "main": "cjs/index.js",
   "module": "es/index.js",
